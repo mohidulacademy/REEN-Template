@@ -1,1 +1,1 @@
-# REEN-Templete
+# REEN-Template
